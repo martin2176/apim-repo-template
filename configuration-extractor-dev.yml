@@ -1,9 +1,9 @@
-apis: []
+apis:
+  - name-of-api
 versionSets: []
 workspaces: []
 backends: []
-namedValues:
- - tifsecret1
+namedValues: []
 products: []
 subscriptions: []
 tags: []
